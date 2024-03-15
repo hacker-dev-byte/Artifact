@@ -136,7 +136,7 @@
     <ClCompile Include="LogicalDrives.c" />
     <ClCompile Include="Processes.c" />
     <ClCompile Include="RC4.c" />
-    <ClCompile Include="README.c" />
+    <ClCompile Include="READ_ME.c" />
     <ClCompile Include="SearchEngine.c" />
   </ItemGroup>
   <ItemGroup>
@@ -144,7 +144,7 @@
     <ClInclude Include="LogicalDrives.h" />
     <ClInclude Include="Processes.h" />
     <ClInclude Include="RC4.h" />
-    <ClInclude Include="README.h" />
+    <ClInclude Include="READ_ME.h" />
     <ClInclude Include="SearchEngine.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

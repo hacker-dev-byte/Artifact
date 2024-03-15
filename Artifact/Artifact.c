@@ -26,7 +26,7 @@ SOFTWARE.
 #include "SearchEngine.h"
 #include "Processes.h"
 #include "CallBack.h"
-#include "README.h"
+#include "READ_ME.h"
 
 #define _MAX_KEY_SIZE 100
 #define MAX_THREADS 26

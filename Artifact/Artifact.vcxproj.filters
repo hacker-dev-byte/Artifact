@@ -30,10 +30,10 @@
     <ClCompile Include="Processes.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="README.c">
+    <ClCompile Include="CallBack.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="CallBack.c">
+    <ClCompile Include="READ_ME.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
@@ -50,10 +50,10 @@
     <ClInclude Include="Processes.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="README.h">
+    <ClInclude Include="CallBack.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="CallBack.h">
+    <ClInclude Include="READ_ME.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
